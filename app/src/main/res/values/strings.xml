@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PreferencesDemo</string>
+    <string name="hello">Hello World, PreferencesDemo</string>
+    <string name="timesStr">This App has been started %1$d times</string>
+</resources>
